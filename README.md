@@ -10,5 +10,7 @@ Blog increible para el **Curso Profesional de Git y GitHub de Platzi**
 - Tips interesantes del profesor
 - Manejo de situaciones en el ámbito laboral
 - Creado por Platzi student
+- Incluye ejemplos de Windows, Linux y MacOs
+- Disponible para todas las edades
 
 Este es un pequeño ejemplo de **Readme.md**, si deseas aprender este o reforzas tus conocimientos, clickea este link: *(https://platzi.com/cursos/git-github/)*
